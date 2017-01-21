@@ -34,9 +34,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#"></a></li>
-
+            <a href="search-course.html"><img src="img/MainLogo.png"  href="search-course.html" width="130px"/></a>
           </ul>
           <form class="navbar-form navbar-left" role="search">
             <div class="form-group">
