@@ -19,39 +19,7 @@
   </head>
   <body>
     <!-- Main Navbar -->
-    <nav class="navbar navbar-default" role="navigation">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#"></a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="navbar">
-          <ul class="nav navbar-nav">
-            <a href="search-course.html"><img src="img/MainLogo.png"  href="search-course.html" width="130px"/></a>
-          </ul>
-          <form class="navbar-form navbar-left" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-          <ul class="nav navbar-nav navbar-right">
-            <li><div class="btn-nav"><a class="btn btn-small navbar-btn" href="instructor.html">Become an Instructor</a></div></li>
-            <li>
-              <img src="img/ProfilePicture.png" height="42" width="42" class="img-circle">
-              John Snow
-            </li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
-    </nav>
+    <?php include('templates/header-loggedin.php'); ?>
     <div class="container">
     	<div class="row">
             <div class="profile-header-container">

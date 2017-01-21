@@ -37,12 +37,10 @@
       </div>
       </form>
       </div>
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav pull-right">
         <li><div class="btn-nav"><a class="btn btn-small navbar-btn" href="/instructor.php">Become an Instructor</a></div></li>
-        <li>
-          <img src="img/ProfilePicture.png" height="42" width="42" class="img-circle">
-          John Snow
-        </li>
+        <li><a href="/profile.php"><img src="img/ProfilePicture.png" height="30" width="30" class="img-circle">Shums Kassam</a></li>
+
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
