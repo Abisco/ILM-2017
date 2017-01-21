@@ -1,0 +1,6 @@
+body {
+	background-color:#fff;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   	padding-bottom:60px;   /* Height of the footer */
+   	position: relative;
+}
