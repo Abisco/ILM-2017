@@ -110,3 +110,14 @@ body {
 #class-box {
 	width: 258px
 }
+
+a.list-group-item {
+    height:auto;
+    min-height:220px;
+}
+a.list-group-item.active small {
+    color:#fff;
+}
+.stars {
+    margin:50px auto 4px;
+}

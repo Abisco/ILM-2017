@@ -22,13 +22,23 @@
     <?php include('templates/header-loggedin.php'); ?>
     <div class="container">
     	<div class="row">
-            <div class="profile-header-container">
-        		<div class="profile-header-img">
-                    <img class="img-circle" src="img/ProfilePicture.png" width="150px" />
-                    <!-- badge -->
-                </div>
+            <div class="col-md-3">
+              <div class="profile-header-container">
+                  <div class="profile-header-img">
+                      <img class="img-circle" src="img/ProfilePicture.png" width="150px" />
+                      <!-- badge -->
+                  </div>
+              </div>
             </div>
+            <div>
+              <h1> Shums Kassam</h1>
+              <div <div class="col-m-6">
 
+                <h4>
+                  I'm a smart and awesome guy who loves learning about Islam! My favourite pass times are reading, learning, coding and long walks by the beach!
+                </h4>
+              </div>
+            </div>
     	</div>
       <div class="row">
         <ul class="nav nav-tabs nav-justified" role="tablist">
@@ -37,13 +47,122 @@
         </ul>
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane active" id="tab-01">
-            content of tab 1
+            <div class="container">
+                <div class="row">
+            		    <div class="well">
+                    <h1 class="text-center">Your Current Courses</h1>
+                    <div class="list-group">
+                      <a href="history-of-kabaa.php" class="list-group-item">
+                            <div class="media col-md-3">
+                                <figure class="pull-left">
+                                    <img class="media-object img-rounded img-responsive"  src="img/CoursePics/01.png" alt="placehold.it/350x250" >
+                                </figure>
+                            </div>
+                            <div class="col-md-6">
+                                <h4 class="list-group-item-heading"> History of the Ka'baa </h4>
+                                <p class="list-group-item-text"> A course on the History of the Ka'baa and and the significance of Ka'baa to Muslims.
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
+                                <div class="stars">
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star-empty"></span>
+                                </div>
+                                <p> Average 4.7 <small> / </small> 5 </p>
+                            </div>
+                            <div class="col-md-9 text-center">
+                              <p>
+                                You have 4 hours and 9 minutes remaining in this course of 4 hours and 12 minutes
+                              </p>
+                              <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width:5%">
+                                  5% Completed
+                                </div>
+                                <div style="width: 8px; height: 20px; position: absolute; background: red; right: 40%;" title="Hasanain is 60% done!">
+                                </div>
+                              </div>
+                            </div>
+                      </a>
+                      <a href="#" class="list-group-item">
+                            <div class="media col-md-3">
+                                <figure class="pull-left">
+                                    <img class="media-object img-rounded img-responsive" src="img/CoursePics/02.png" alt="placehold.it/350x250" >
+                                </figure>
+                            </div>
+                            <div class="col-md-6">
+                                <h4 class="list-group-item-heading"> Life of the Last Prophet </h4>
+                                <p class="list-group-item-text"> This is a short description of what the course is going to talk about in regards to the life of the Prophet from the perspective of Sunni Muslims. Information is presented with vivid detail in order to help students picture exactly what the landscape of the Prophet's life was like.
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
+                                <div class="stars">
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star-empty"></span>
+                                </div>
+                                <p> Average 4.6 <small> / </small> 5 </p>
+                            </div>
+                            <div class="col-md-9 text-center">
+                              <p>
+                                You have 25 minutes remaining in this course of 3 hours and 54 minutes. Almost there!!!
+                              </p>
+                              <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100" style="width:89%">
+                                  89% Completed
+                                </div>
+                                <div style="width: 8px; height: 20px; position: absolute; background: red; right: 15%;" title="Muhammad Ali is 85% done!">
+                                </div>
+                                <div style="width: 8px; height: 20px; position: absolute; background: red; right: 69%;" title="Shabbar is 31% done!">
+                                </div>
+                              </div>
+                            </div>
+                      </a>
+                      <a href="#" class="list-group-item">
+                            <div class="media col-md-3">
+                                <figure class="pull-left">
+                                    <img class="media-object img-rounded img-responsive" src="img/CoursePics/03.png" alt="placehold.it/350x250">
+                                </figure>
+                            </div>
+                            <div class="col-md-6">
+                                <h4 class="list-group-item-heading"> Life of Prophet Moses (Musa) </h4>
+                                <p class="list-group-item-text"> A course all about the life of Prophet Moses.
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
+                                <div class="stars">
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    <span class="glyphicon glyphicon-star-empty"></span>
+                                </div>
+                                <p> Average 4.3 <small> / </small> 5 </p>
+                            </div>
+                            <div class="col-md-9 text-center">
+                              <p>
+                                You have 39 minutes remaining in this course of 2 hours and 11 minutes.
+                              </p>
+                              <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                                  70% Completed
+                                </div>
+                              </div>
+                            </div>
+                      </a>
+                    </div>
+                    </div>
+            	  </div>
+            </div>
           </div>
           <div role="tabpanel" class="tab-pane" id="tab-02">
             content of tab 2
-          </div>
-          <div role="tabpanel" class="tab-pane" id="tab-03">
-            content of tab 3
           </div>
         </div>
       </div>
