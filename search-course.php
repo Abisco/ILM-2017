@@ -69,23 +69,23 @@
 
 
     <div class="row">
-      <h2>Top Courses for You</h2>
+      <h2>Top Courses in Life of Prophets</h2>
     </div>
     <div class="row">
       <div class="col-xs-18 col-sm-6 col-md-3">
-        <img src="img/CardPlaceHolder_lowres.png"/>
+        <img src="img/cardplaceholder/01.png"/>
       </div>
 
       <div class="col-xs-18 col-sm-6 col-md-3">
-        <img src="img/CardPlaceHolder_lowres.png"/>
+        <img src="img/cardplaceholder/03.png"/>
       </div>
 
       <div class="col-xs-18 col-sm-6 col-md-3">
-        <img src="img/CardPlaceHolder_lowres.png"/>
+        <img src="img/cardplaceholder/04.png"/>
       </div>
 
       <div class="col-xs-18 col-sm-6 col-md-3">
-        <img src="img/CardPlaceHolder_lowres.png"/>
+        <img src="img/cardplaceholder/05.png"/>
       </div>
     </div>
 

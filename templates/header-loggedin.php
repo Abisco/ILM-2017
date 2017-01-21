@@ -39,7 +39,10 @@
       </div>
       <ul class="nav navbar-nav pull-right">
         <li><div class="btn-nav"><a class="btn btn-small navbar-btn" href="/instructor.php">Become an Instructor</a></div></li>
-        <li><a href="/profile.php"><img src="img/ProfilePicture.png" height="30" width="30" class="img-circle">Shums Kassam</a></li>
+        <a class="navbar-brand" href="/profile.php">
+          <img src="img/ProfilePicture.png" height="30" width="30" class="img-circle"  style="display: inline-block;">
+          <span style="display: inline-block;">Shums Kassam</span>
+        </a>
 
       </ul>
     </div><!-- /.navbar-collapse -->
