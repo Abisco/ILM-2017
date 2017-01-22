@@ -1,6 +1,6 @@
 body {
 	background-color:#c3d0d6;
-	padding-top: 70px;
+	padding-top: 90px;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
    	padding-bottom:60px;   /* Height of the footer */
    	position: relative;
@@ -150,9 +150,6 @@ a.list-group-item.active small {
     margin-right: auto;
  }
 
- body {
-    padding-top: 50px;
-}
 .dropdown.dropdown-lg .dropdown-menu {
     margin-top: -1px;
     padding: 6px 20px;
@@ -192,4 +189,8 @@ a.list-group-item.active small {
     .dropdown.dropdown-lg .dropdown-menu {
         min-width: 500px;
     }
+}
+
+#row-kaaba {
+	padding-top: 90px;
 }

@@ -162,7 +162,7 @@
         <div class="row">
           <div class="col-sm-3">
             <img src="img/ProfilePicture.png" class="img-rounded" width="50px">
-            <div class="review-block-name"><a href="#">Jaffer Abbas</a></div>
+            <div class="review-block-name"><a href="#">Fatima Naqvi</a></div>
             <div class="review-block-date">January 5th, 2017<br/>16 days ago</div>
           </div>
           <div class="col-sm-9">
@@ -191,7 +191,7 @@
         <div class="row">
           <div class="col-sm-3">
             <img src="img/ProfilePicture.png" class="img-rounded" width="50px">
-            <div class="review-block-name"><a href="#">Ali Rashidi</a></div>
+            <div class="review-block-name"><a href="#">Umar al-Siddiqi</a></div>
             <div class="review-block-date">September 1st 2016<br/>200 days ago</div>
           </div>
           <div class="col-sm-9">

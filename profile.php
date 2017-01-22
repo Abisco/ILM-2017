@@ -42,7 +42,7 @@
       <div class="row">
         <ul class="nav nav-tabs nav-justified" role="tablist">
           <li role="presentation" class="active"><a href="#tab-01" aria-controls="tab-01" role="tab" data-toggle="tab"> Student </a></a></li>
-          <li role="presentation"><a href="#tab-02" aria-controls="tab-02" role="tab" data-toggle="tab">Teacher</a></li>
+          <li role="presentation"><a href="#tab-02" aria-controls="tab-02" role="tab" data-toggle="tab">Instructor</a></li>
         </ul>
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane active" id="tab-01">
@@ -173,7 +173,7 @@
             </div>
           </div>
           <div role="tabpanel" class="tab-pane" id="tab-02">
-            content of tab 2
+            Instructor Content
           </div>
         </div>
       </div>

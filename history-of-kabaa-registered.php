@@ -20,8 +20,8 @@
   </head>
   <body>
     <?php include('templates/header-loggedin.php'); ?>
-    <div class="container">
-      <div class="row">
+    <div class="container" >
+      <div class="row" id="row-kaaba" style="padding-top: 60px;">
         <div class="col-md-4">
           <figure class="pull-left">
               <img class="media-object img-rounded img-responsive"  src="img/CoursePics/01.png" alt="placehold.it/350x250" >
@@ -33,13 +33,19 @@
             <p>
               A Course on the History of the Ka'baa and the significance of Ka'baa to Muslims.
             </p>
+            <a href="video_player.php"><button class="btn btn-success btn-lg">Continue Lecture 1.2 - Construction of the Ka'baa</button></a><br /><br />
             <label for="input-4" class="control-label">Rate This</label>
             <input id="input-4" name="input-4" class="rating rating-loading" data-show-clear="false" data-show-caption="true">
             <div class="progress">
-              <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%">
-                0% Completed
+              <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="10" aria-valuemax="100" style="width:10%">
+                10% Completed
+              </div>
+              <div style="width: 8px; height: 20px; position: absolute; background: red; right: 50%;" title="Ali Kara is 50% done!">
+              </div>
+              <div style="width: 8px; height: 20px; position: absolute; background: red; right: 10%;" title="Omar Khalid is 90% done!">
               </div>
             </div>
+
           </div>
       </div>
 
@@ -85,5 +91,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.1/js/star-rating.js" charset="utf-8"></script>
+    <script src="js/tooltip.js" charset="utf-8"></script>
   </body>
 </html>
