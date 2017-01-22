@@ -33,7 +33,6 @@
             <div>
               <h1> Shums Kassam</h1>
               <div <div class="col-m-6">
-
                 <h4>
                   I'm a smart and awesome guy who loves learning about Islam! My favourite pass times are reading, learning, coding and long walks by the beach!
                 </h4>
@@ -50,7 +49,7 @@
             <div class="container">
                 <div class="row">
             		    <div class="well">
-                    <h1 class="text-center">Your Current Courses</h1>
+                    <h1 class="text-center" margin="10px">Your Current Courses</h1>
                     <div class="list-group">
                       <a href="history-of-kabaa.php" class="list-group-item" id="course-profile">
                             <div class="media col-md-3">
@@ -68,7 +67,7 @@
                                   <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
                                 </div>
                                 <div class="col-s-1">
-                                    <img src="img/Mailbox.png" id="mail" />
+                                    <img src="img/Mailbox.png" id="mail" title="There are 5 new discussions happening in this class!"/>
                                 </div>
 
                                 <div class="stars">
@@ -107,7 +106,7 @@
                             <div class="col-md-3 text-center">
                                 <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
                                 <div class="col-s-1">
-                                    <img src="img/Mailbox.png" id="mail" />
+                                  <img src="img/Mailbox.png" id="mail" title="There are 5 new discussions happening in this class!"/>
                                 </div>
                                 <div class="stars">
                                     <span class="glyphicon glyphicon-star"></span>
@@ -146,7 +145,7 @@
                             <div class="col-md-3 text-center">
                                 <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
                                 <div class="col-s-1">
-                                    <img src="img/Mailbox.png" id="mail" />
+                                    <img src="img/Mailbox.png" id="mail" title="There are 5 new discussions happening in this class!"/>
                                 </div>
                                 <div class="stars">
                                     <span class="glyphicon glyphicon-star"></span>
@@ -183,5 +182,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="js/tooltip.js" charset="utf-8"></script>
   </body>
 </html>

@@ -19,8 +19,8 @@
     <![endif]-->
   </head>
   <body>
-    <a href="/search-course.php"><img class="logo" src="img/MainLogo.png" width="130px"/></a>
-    <img src="img/VideoTemplate/01.png" id="bg" alt="">
+    <a href="/search-course.php"><img src="img/VideoTemplate/02.png" id="bg" alt=""></a>
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

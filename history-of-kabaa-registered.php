@@ -67,7 +67,9 @@
               Sit in for the most engrossing history lesson you will ever experience, as Sheikh Abbas weaves the tale of the true History of the Ka'baa</h4>
             </div>
             <div role="tabpanel" class="tab-pane" id="tab-02">
-              content of tab 2
+              <div class="row" padding-top="50px">
+                <a href="video_player.php"><img src="img/CourseDescription/LessonPlan_Progress.png" alt="" width="75%" height="100%" class="center-block"/></a>
+              </div>
             </div>
             <div role="tabpanel" class="tab-pane" id="tab-03">
               content of tab 3

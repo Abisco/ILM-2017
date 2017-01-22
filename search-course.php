@@ -22,7 +22,72 @@
   <!-- Main Navbar -->
   <?php include('templates/header-loggedin.php'); ?>
   <div class="container" id="tourpackages-carousel">
-
+    <div class="row">
+      <div class="form-horizontal">
+        <div class="input-group" id="adv-search">
+          <input type="text" class="form-control" placeholder="Search for a class!" />
+          <div class="input-group-btn">
+            <div class="btn-group" role="group">
+              <div class="dropdown dropdown-lg">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><span class="caret"></span></button>
+                <div class="dropdown-menu dropdown-menu-right" role="menu">
+                  <form class="form-horizontal" role="form">
+                    <div class="form-group">
+                      <label for="filter">Specific Perspective:</label>
+                      <br />
+                      <label class="checkbox-inline"><input type="checkbox" value="">General Knowledge</label>
+                      <label class="checkbox-inline"><input type="checkbox" value="">Sunni</label>
+                      <label class="checkbox-inline"><input type="checkbox" value="">Shia</label>
+                      <label class="checkbox-inline"><input type="checkbox" value="">Sufi</label>
+                      <label class="checkbox-inline"><input type="checkbox" value="">Kharajite</label>
+                      <label class="checkbox-inline"><input type="checkbox" value="">Quranists</label>
+                      <br />
+                      Don't see your sect? Click the box below and type it in:
+                      <div>
+                        <div class="input-group">
+                          <span class="input-group-addon">
+                            <input type="checkbox" aria-label="Checkbox for following text input">
+                          </span>
+                          <input type="text" class="form-control" aria-label="Text input with checkbox">
+                        </div>
+                      </div>
+                    </div>
+                    <label for="checkboxes">Taught in:</label>
+                    <br />
+                    <label class="checkbox-inline"><input type="checkbox" value="">English</label>
+                    <label class="checkbox-inline"><input type="checkbox" value="">Arabic</label>
+                    <label class="checkbox-inline"><input type="checkbox" value="">French</label>
+                    <label class="checkbox-inline"><input type="checkbox" value="">Swedish</label>
+                    <label class="checkbox-inline"><input type="checkbox" value="">Chinese</label>
+                    <label class="checkbox-inline"><input type="checkbox" value="">Russian</label>
+                    <br />
+                    Don't see your language? Click the box below and type it in:
+                    <div class="input-group">
+                      <span class="input-group-addon">
+                        <input type="checkbox" aria-label="Checkbox for following text input">
+                      </span>
+                      <input type="text" class="form-control" aria-label="Text input with checkbox">
+                    </div>
+                    <br />
+                    <div class="form-group">
+                      <label for="contain">Author</label>
+                      <input class="form-control" type="text" />
+                    </div>
+                    <br />
+                    <div class="form-group">
+                      <label for="contain">Contains the words</label>
+                      <input class="form-control" type="text" />
+                    </div>
+                    <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                  </form>
+                </div>
+              </div>
+              <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="row">
       <h2>Recommended for You</h2>
     </div>

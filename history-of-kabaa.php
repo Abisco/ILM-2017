@@ -30,7 +30,7 @@
       </div>
       <hr>
       <div class="row" id="course-row">
-        <img src="img/CourseDescription/Lesson_plan.png" alt="" />
+        <img src="img/CourseDescription/LessonPlan_02.png" alt="" width="75%" height="100%"/>
       </div>
       <hr>
 
@@ -127,14 +127,14 @@
   </div>
 
   <div class="row">
-    <div class="col-sm-7">
+    <div class="col-m-9">
       <hr/>
       <div class="review-block">
         <div class="row">
           <div class="col-sm-3">
             <img src="img/ProfilePicture.png" class="img-rounded" width="50px">
-            <div class="review-block-name"><a href="#">nktailor</a></div>
-            <div class="review-block-date">January 29, 2016<br/>1 day ago</div>
+            <div class="review-block-name"><a href="#">Jaffer Okera</a></div>
+            <div class="review-block-date">December 10th, 2016<br/>42 days ago</div>
           </div>
           <div class="col-sm-9">
             <div class="review-block-rate">
@@ -147,15 +147,15 @@
               <button type="button" class="btn btn-warning btn-xs" aria-label="Left Align">
                 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </button>
-              <button type="button" class="btn btn-default btn-grey btn-xs" aria-label="Left Align">
+              <button type="button" class="btn btn-warning btn-xs" aria-label="Left Align">
                 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </button>
               <button type="button" class="btn btn-default btn-grey btn-xs" aria-label="Left Align">
                 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </button>
             </div>
-            <div class="review-block-title">this was nice in buy</div>
-            <div class="review-block-description">this was nice in buy. this was nice in buy. this was nice in buy. this was nice in buy this was nice in buy this was nice in buy this was nice in buy this was nice in buy</div>
+            <div class="review-block-title" ><h4>This Class Was Legit</h4></div>
+            <div class="review-block-description">When I started the class, I really thought the sheikh would be like super sketch you know. But then he turned out aight. I think he is phenomenal, but please do a class on arabic tafseer next!!! I don't like history much so I took off 1 star</div>
           </div>
         </div>
         <hr/>
@@ -183,7 +183,7 @@
                 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </button>
             </div>
-            <div class="review-block-title">Best Islamic Course I've Ever Done</div>
+            <div class="review-block-title"><h4>Best Islamic Course I've Ever Done</h4></div>
             <div class="review-block-description">Wow, Sheikh Abbas is amazing. He has just done an incredible job telling the story of the History of the Ka'baa. Every single moment is expertly told and really makes you love it. I'm truly impressed and can't wait to try more of Sheikh Abbas's Classes</div>
           </div>
         </div>
@@ -191,8 +191,8 @@
         <div class="row">
           <div class="col-sm-3">
             <img src="img/ProfilePicture.png" class="img-rounded" width="50px">
-            <div class="review-block-name"><a href="#">nktailor</a></div>
-            <div class="review-block-date">January 29, 2016<br/>1 day ago</div>
+            <div class="review-block-name"><a href="#">Ali Rashidi</a></div>
+            <div class="review-block-date">September 1st 2016<br/>200 days ago</div>
           </div>
           <div class="col-sm-9">
             <div class="review-block-rate">
@@ -202,7 +202,7 @@
               <button type="button" class="btn btn-warning btn-xs" aria-label="Left Align">
                 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </button>
-              <button type="button" class="btn btn-warning btn-xs" aria-label="Left Align">
+              <button type="button" class="btn btn-default btn-grey btn-xs" aria-label="Left Align">
                 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </button>
               <button type="button" class="btn btn-default btn-grey btn-xs" aria-label="Left Align">
@@ -212,8 +212,8 @@
                 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
               </button>
             </div>
-            <div class="review-block-title">this was nice in buy</div>
-            <div class="review-block-description">this was nice in buy. this was nice in buy. this was nice in buy. this was nice in buy this was nice in buy this was nice in buy this was nice in buy this was nice in buy</div>
+            <div class="review-block-title"><h4>Really lacking in insight</h4></div>
+            <div class="review-block-description">This course was good, don't get me wrong, but it really does not match what I expect from a so called 'historian'. There needs to be more information and knowledge given to the students. For now I think this class was merely okay.</div>
           </div>
         </div>
       </div>
