@@ -52,31 +52,37 @@
             		    <div class="well">
                     <h1 class="text-center">Your Current Courses</h1>
                     <div class="list-group">
-                      <a href="history-of-kabaa.php" class="list-group-item">
+                      <a href="history-of-kabaa.php" class="list-group-item" id="course-profile">
                             <div class="media col-md-3">
                                 <figure class="pull-left">
-                                    <img class="media-object img-rounded img-responsive"  src="img/CoursePics/01.png" alt="placehold.it/350x250" >
+                                    <img class="media-object img-rounded img-responsive"  src="img/CoursePics/04.png" alt="placehold.it/350x250" >
                                 </figure>
                             </div>
                             <div class="col-md-6">
-                                <h4 class="list-group-item-heading"> History of the Ka'baa </h4>
-                                <p class="list-group-item-text"> A course on the History of the Ka'baa and and the significance of Ka'baa to Muslims.
+                                <h4 class="list-group-item-heading"> Life of Prophet Noah (Nuh) </h4>
+                                <p class="list-group-item-text"> A course on the Islamic Perspective of Prophet Noah
                                 </p>
                             </div>
                             <div class="col-md-3 text-center">
-                                <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
+                                <div class="col-s-2">
+                                  <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
+                                </div>
+                                <div class="col-s-1">
+                                    <img src="img/Mailbox.png" id="mail" />
+                                </div>
+
                                 <div class="stars">
                                     <span class="glyphicon glyphicon-star"></span>
                                     <span class="glyphicon glyphicon-star"></span>
                                     <span class="glyphicon glyphicon-star"></span>
                                     <span class="glyphicon glyphicon-star"></span>
-                                    <span class="glyphicon glyphicon-star-empty"></span>
+                                    <span class="glyphicon glyphicon-star"></span>
                                 </div>
-                                <p> Average 4.7 <small> / </small> 5 </p>
+                                <p> Average 4.9 <small> / </small> 5 </p>
                             </div>
                             <div class="col-md-9 text-center">
                               <p>
-                                You have 4 hours and 9 minutes remaining in this course of 4 hours and 12 minutes
+                                You have 3 hours and 12 minutes remaining in this course of 3 hours and 22 minutes
                               </p>
                               <div class="progress">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width:5%">
@@ -87,7 +93,7 @@
                               </div>
                             </div>
                       </a>
-                      <a href="#" class="list-group-item">
+                      <a href="#" class="list-group-item" id="course-profile">
                             <div class="media col-md-3">
                                 <figure class="pull-left">
                                     <img class="media-object img-rounded img-responsive" src="img/CoursePics/02.png" alt="placehold.it/350x250" >
@@ -100,6 +106,9 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
+                                <div class="col-s-1">
+                                    <img src="img/Mailbox.png" id="mail" />
+                                </div>
                                 <div class="stars">
                                     <span class="glyphicon glyphicon-star"></span>
                                     <span class="glyphicon glyphicon-star"></span>
@@ -124,7 +133,7 @@
                               </div>
                             </div>
                       </a>
-                      <a href="#" class="list-group-item">
+                      <a href="#" class="list-group-item" id="course-profile">
                             <div class="media col-md-3">
                                 <figure class="pull-left">
                                     <img class="media-object img-rounded img-responsive" src="img/CoursePics/03.png" alt="placehold.it/350x250">
@@ -136,6 +145,9 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <button type="button" class="btn btn-primary btn-lg btn-block">Continue Course</button>
+                                <div class="col-s-1">
+                                    <img src="img/Mailbox.png" id="mail" />
+                                </div>
                                 <div class="stars">
                                     <span class="glyphicon glyphicon-star"></span>
                                     <span class="glyphicon glyphicon-star"></span>

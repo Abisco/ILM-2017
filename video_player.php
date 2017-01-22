@@ -9,7 +9,8 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="css/video_player.css" media="screen" title="no title" charset="utf-8">
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -18,14 +19,8 @@
     <![endif]-->
   </head>
   <body>
-    <!-- Main Navbar -->
-    <?php include('templates/header-notloggedin.php'); ?>
-    <img src="img/landing_bg.jpg" alt="" />
-    <div class="container">
-    	<div class="row">
-
-    	</div>
-    </div>
+    <a href="/search-course.php"><img class="logo" src="img/MainLogo.png" width="130px"/></a>
+    <img src="img/VideoTemplate/01.png" id="bg" alt="">
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

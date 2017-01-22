@@ -32,7 +32,7 @@
       </div>
 
       <div class="col-xs-18 col-sm-6 col-md-3">
-        <img src="img/cardplaceholder/02.png"/>
+        <a href="history-of-kabaa.php"><img src="img/cardplaceholder/02.png"/></a>
       </div>
 
       <div class="col-xs-18 col-sm-6 col-md-3">

@@ -23,7 +23,7 @@
     <?php include('templates/header-loggedin.php'); ?>
     <div class="container">
     	<div class="row">
-        <img src="img/become_instructor.png" id="bg">
+        <img src="img/instructor/03.png" id="bg">
     	</div>
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

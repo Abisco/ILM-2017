@@ -1,0 +1,16 @@
+#bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  /* Preserve aspet ratio */
+  width: 100%;
+  min-height: 100%;
+  z-index: 3;
+}
+
+.logo {
+  top: 25px;
+  left: 25px;
+   z-index: 1;
+}
